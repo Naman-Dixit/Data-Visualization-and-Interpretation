@@ -6,22 +6,6 @@ This repository serves as a comprehensive resource for learning and applying dat
 # Why Data Visualization?
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# Getting Started
-Python
-Clone this repository:
-
-git clone https://github.com/YourUsername/your-repo-name.git
-
-Navigate to the python/ directory.
-
-Install the required libraries:
-
-pip install pandas numpy matplotlib seaborn jupyter
-
-Launch a Jupyter Notebook to explore the examples:
-
-jupyter notebook
-
 # Power BI & Tableau
 Simply open the .pbix or .twb/.twbx files with their respective software. The datasets used in these projects are also included within their respective folders.
 
