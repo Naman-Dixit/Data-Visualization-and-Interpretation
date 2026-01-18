@@ -1,0 +1,12 @@
+OrderID,OrderDate,CustomerName,ProductDetails,Quantity,UnitPrice,TotalPrice,Region,Notes
+1,9/1/2025,Rahul Sharma,"Laptop - Silver - 15""",1,"$1,000.00 ",," "" North """,Delivered
+2,1/9/2025,Anita Verma,Phone - Black - 6inch,2,"₹25,000","₹50,000",south,
+3,3-Sep-25,,Tablet - White - 10in,1,300,300,East,Return pending
+4,9/3/2025,Rahul Sharma,"Laptop - Silver - 15""",1,"$1,000.00 ","$1,000.00 ",North,Duplicate order
+5,9/4/2025,Priya Singh,Headphones - Red,3,50, ,West,
+6,4/9/2025,Suresh,Phone - Black - 6inch,,25000,25000,South,missing qty
+7,9/5/2025,Anita Verma,Phone - Black - 6inch,1,25000,25000,south,
+8,9/5/2025,Ajay,"Laptop - Silver - 15""",1,"$1,000.00 ","$1,000.00 ",north,
+9,9/6/2025,Maya,Smartwatch - Blue,2,199.99,399.98,West, 
+9,9/6/2025,Maya,Smartwatch - Blue,2,199.99,399.98,West, 
+10,9/6/2025,Maya,Smartwatch - Blue,2,199.99,399.98,West,Duplicated

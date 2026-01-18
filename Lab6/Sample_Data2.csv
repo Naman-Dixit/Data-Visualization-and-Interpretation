@@ -1,0 +1,13 @@
+OrderID,OrderDate,CustomerID,CustomerName,Channel,Region,ProductCategory,ProductName,Quantity,UnitPrice,Discount,ShippingFee,CostPerUnit,ReturnQty
+1001,2025-09-01,C001,Rahul,Online,North,Electronics,Laptop,1,1000,50,20,700,0
+1002,2025-09-01,C002,Anita,Store,South,Electronics,Phone,2,500,0,15,300,0
+1003,2025-09-02,C003,Priya,Online,West,Accessories,Headphones,3,50,5,5,20,1
+1004,2025-09-03,C001,Rahul,Store,North,Electronics,Laptop,1,1000,100,20,700,0
+1005,2025-09-04,C004,Suresh,Online,South,Electronics,Phone,1,500,0,15,300,0
+1006,2025-09-04,C005,Ajay,Store,West,Wearables,Smartwatch,2,200,0,10,120,0
+1007,2025-09-05,C002,Anita,Online,South,Electronics,Phone,1,500,25,15,300,0
+1008,2025-09-06,C006,Maya,Online,West,Accessories,Charger,5,10,0,5,3,0
+1009,2025-09-06,C007,Neha,Store,North,Accessories,Headphones,1,50,0,5,20,0
+1010,2025-09-07,C008,Raj,Online,East,Electronics,Tablet,1,300,0,15,180,0
+1011,2025-09-07,C009,Mohit,Store,East,Electronics,Laptop,1,1000,0,0,700,1
+1012,2025-09-08,C010,Simran,Online,South,Wearables,Smartwatch,1,200,0,10,120,0
